@@ -1,5 +1,5 @@
 Contact contactToAdd = new Contact();
-contactToAdd.firstName = 'June';
-contactToAdd.lastName = 'Morgan';
+contactToAdd.firstName = 'Rakesh';
+contactToAdd.lastName = 'SS';
 insert contactToAdd;
 System.debug('contactToAdd recordID is: ' + contactToAdd.id);
