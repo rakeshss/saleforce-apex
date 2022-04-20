@@ -1,0 +1,2 @@
+ID contactID = ContactManager.addContact('Shashank','Aroor');
+System.debug('Called from Execute Anonymous: ID=' + contactID);
